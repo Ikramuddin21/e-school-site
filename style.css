@@ -1,0 +1,91 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.navbar-brand img{
+    width: 130px;
+}
+.navbar-nav{
+    color: black;
+    font-weight: 700;
+}
+.nav-item{
+    margin-left: 15px;
+}
+.header{
+    margin-top: 100px;
+}
+.button{
+    border: none;
+    border-radius: 250px;
+    padding: 10px 25px;
+}
+.top-area{
+    background-color: #e7ffe7;
+    padding-bottom: 35px
+}
+.img-area{
+    margin-top: 80px;
+}
+.box-1, .box-2, .box-3, .box-4{
+    background-color: #F0FFF0;
+    border-radius: 10px;
+    height: 280px;
+    margin-bottom: 10px;
+    padding: 55px 15px;
+}
+.box-1:hover, .box-2:hover, .box-3:hover, .box-4:hover{
+    background-color: white;
+    box-shadow: 5px 5px 15px lightgray;
+}
+.img-area, h3, small{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+.card-area{
+    margin-top: 80px;
+}
+.card-deck{
+    margin-top: 70px;
+}
+.card img{
+    width: 85%;
+    margin: auto;
+    padding-top: 15px; 
+}
+.card-footer img{
+    width: 20px;
+}
+#card{
+    border: none;
+    box-shadow: 5px 5px 20px lightgray;
+}
+#card-footer{
+    background: none;
+    border-top: none;
+}
+.carousel-area{
+    margin-top: 100px;
+}
+.carousel-item{
+    margin-top: 80px;
+}
+.carousel-img{
+    margin-left: 250px;
+}
+.footer{
+    margin-top: 80px;
+    text-align: center;
+    color: #ffffffd2;
+    background-color: rgb(2, 2, 44);
+}
+.footer1, .footer2, .footer3, .footer4{
+    margin-top: 40px;
+}
+h6{
+    color: rgb(184, 183, 183);
+}
+footer{
+    margin-top: 40px;
+}
